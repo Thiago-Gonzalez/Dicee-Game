@@ -1,6 +1,6 @@
 <h1>Dicee Game</h1>
-<p>A web dicee game made using HMTL, CSS and JS.</p>
-<a href="https://thiago-gonzalez.github.io/Dicee-Game/">Click here to acess the Dicee Game.</a> <br>
+<p>Dicee Game é um jogo de dados desenvolvido utilizando as tecnologias de programação HMTL, CSS e JavaScript durante o curso "The Complete 2021 Web Development Bootcamp", ministrado pela Angela Yu na plataforma Udemy.</p>
+<a href="https://thiago-gonzalez.github.io/Dicee-Game/">Clique aqui para acessar o Dicee Game.</a> <br>
 <h2>Preview</h2>
   <ol>
     <li>Home</li><br>
@@ -13,6 +13,6 @@
       <img src="https://cdn.discordapp.com/attachments/855470619675852860/887493087989993552/unknown.png" alt="Dicee-Game-Page">
   </ol>
   <br>
-<h2>How to play</h2>
-<p>This is very easy, you just click the play button to roll both players' dice and then have fun.</p>
+<h2>Como jogar</h2>
+<p>Para jogar, basta clicar no botão "play" para jogar os dados. O resultado será exibido em seguida. Para jogar novamente, basta clicar novamente no botão "play".</p>
 <p align="center">&copy 2021, Thiago González</p>
